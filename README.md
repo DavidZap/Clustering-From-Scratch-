@@ -48,4 +48,4 @@ a. Implement the k-means module using Python and Numpy
 b. Implement the k-medoids module using Python and Numpy
 c. Remember to keep consistency with Scikit-Learn API as high as possible
 
-The result upgraded Unsupervised package is in this folder
+The result upgraded Unsupervised package is in this [folder](dist)

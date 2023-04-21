@@ -1,0 +1,8 @@
+
+[dev]
+model
+utils
+pandas
+numpy
+matplotlib
+scikit-learn

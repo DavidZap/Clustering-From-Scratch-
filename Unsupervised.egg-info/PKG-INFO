@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Unsupervised
+Version: 0.1
+Summary: A companion to study clustering
+Home-page: https://github.com/DavidZap/Clustering-From-Scratch-
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Provides-Extra: dev
+
+UNKNOWN
+
